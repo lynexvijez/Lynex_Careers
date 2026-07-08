@@ -7,7 +7,7 @@ The platform addresses the critical gap I observed in many companies' hiring por
 ---
 WORKING LINK   https://lynexvijez.github.io/Lynex_Careers/  
 
-## 🎯 Inspiration & Problem Statement
+## 🎯 Inspiration & Problem Statement.
 
 ### Common Problems Observed
 - **Outdated Interfaces**: Many portals looked like they were built in the early 2000s  
