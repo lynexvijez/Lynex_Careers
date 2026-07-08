@@ -32,7 +32,7 @@ function initApplication() {
   // Add any global event listeners
   addGlobalEventListeners();
 
-  console.log("Lynex Careers application initialized successfully");
+  console.log("Lynex Careers application initialized successfully!");
 }
 
 // Initialize modal handlers
